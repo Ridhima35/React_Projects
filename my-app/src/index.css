@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Rubik", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --color-popx-primary: #6C25FF;
+  --color-popx-primary-light: #6C25FF4D;
+  --color-popx-bg: #F7F8F9;
+  --color-popx-text: #1D2226;
+  --color-popx-muted: #919191;
+  --color-popx-border: #CBCBCB;
+}
+
+body {
+  background-color: var(--color-popx-bg);
+  color: var(--color-popx-text);
+}
