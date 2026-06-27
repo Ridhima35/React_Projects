@@ -1,0 +1,101 @@
+﻿<USER_REQUEST>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Shop</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script:wght@400..700&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@200..700&family=Rubik+Gemstones&display=swap"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Organic</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll"
+        aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"><i class="fas fa-hamburger"></i></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarScroll">
+        <ul class="navbar-nav m-auto my-2 my-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" href="#home">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#trending">Trending</a>
+          </li>
+     
+<truncated 12119 bytes>
+div class="row">
+            <div class="col-lg-3 py-3">
+              <h5 class="pb-3">CUSTOMER CARE</h5>
+              <p>Regular</p>
+              <p>On Time</p>
+              <p>Always Care</p>
+            </div>
+            <div class="col-lg-3 py-3">
+              <h5 class="pb-3">CUSTOMER CARE</h5>
+              <p>Regular</p>
+              <p>On Time</p>
+              <p>Always Care</p>
+            </div>
+            <div class="col-lg-3 py-3">
+              <h5 class="pb-3">CUSTOMER CARE</h5>
+              <p>Regular</p>
+              <p>On Time</p>
+              <p>Always Care</p>
+            </div>
+            <div class="col-lg-3 py-3">
+              <h5 class="pb-3">CUSTOMER CARE</h5>
+              <span><i class="bi bi-facebook"></i></span>
+              <span><i class="bi bi-instagram"></i></span>
+              <span><i class="bi bi-twitter"></i></span>
+              <span><i class="bi bi-telegram"></i></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <p text-center>
+        Copyright &copy; 2023 Organic Food Shop. All rights reserved. | Designed by rids
+      </p>
+    </div>
+  </section>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-06-12T19:39:05+05:30.
+
+The user's current state is as follows:
+Active Document: e:\coding\projects\Food-Shop\src\components\Home.jsx (LANGUAGE_JAVASCRIPT)
+Cursor is on line: 8
+Other open documents:
+- e:\coding\projects\Food-Shop\src\components\Home.jsx (LANGUAGE_JAVASCRIPT)
+- e:\coding\projects\Food-Shop\src\App.css (LANGUAGE_CSS)
+- e:\coding\projects\Food-Shop\src\App.jsx (LANGUAGE_JAVASCRIPT)
+- e:\coding\projects\Food-Shop\index.html (LANGUAGE_HTML)
+- e:\coding\projects\Food-Shop\src\index.css (LANGUAGE_CSS)
+</ADDITIONAL_METADATA>
